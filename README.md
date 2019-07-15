@@ -1,2 +1,5 @@
 # HeartDisease
-Exploratory data analysis for predicting heart disease from UCI dataset
+CoderGirl mini-project predicting heart disease from Cleveland database
+
+If notebooks are not rendering on Github, they can be viewed here: https://nbviewer.jupyter.org/
+
